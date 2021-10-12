@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">淘宝系抓包</string>
+    <string name="xposed_description">淘宝系抓包</string>
+</resources>
